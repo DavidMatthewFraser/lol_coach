@@ -17,7 +17,6 @@ lines = [
     'what objectives are up soon',
     'who has flash and who does not',
     'are you buying wards',
-    'have more fun, your not having enough fun'
 ]
 
 while True:
